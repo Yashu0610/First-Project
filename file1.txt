@@ -1,3 +1,0 @@
-This is my First Day of Wipro training 
-I am learning Git Commands
-Exploring all the commands with hands-on-training.
